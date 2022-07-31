@@ -1,6 +1,6 @@
 Hawkins, Derek	derek@codingtemple.com	(555) 555-5555	Teacher, Coding Temple	@derekhawkins
 Zhai, Mo	mozhai@codingtemple.com	(555) 555-5554	Teacher, Coding Temple
-Johnson, Joe	joejohnson@codingtemple.com		Johson, Joe
+Johnson, Joe	joejohnson@codingtemple.com		Johnson, Joe
 Osterberg, Sven-Erik	governor@norrbotten.co.se		Governor, Norrbotten	@sverik
 , Tim	tim@killerrabbit.com		Enchanter, Killer Rabbit Cave
 Butz, Ryan	ryanb@codingtemple.com	(555) 555-5543	CEO, Coding Temple	@ryanbutz
